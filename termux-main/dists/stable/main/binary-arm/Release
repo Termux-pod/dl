@@ -1,0 +1,5 @@
+Origin: termux-main stable
+Label: termux-main stable
+Archive: stable
+Architecture: arm
+Component: main
